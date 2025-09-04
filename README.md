@@ -87,6 +87,12 @@ Pessoas que trabalham de home office, jogam ou estudam no computador.
 <img width="1132" height="720" alt="videoframe_3204" src="https://github.com/user-attachments/assets/e621f04a-da23-4bf8-bdaf-69984b4f3dd6" />
 <img width="768" height="432" alt="Pupil-Invisible-Glasses-FEA-768x432" src="https://github.com/user-attachments/assets/3db7010c-6f18-45e6-b277-ef1843c536a2" />
 
+**MorphCast for Zoom**  
+
+<img width="683" height="406" alt="Captura de Tela 2025-09-04 às 20 19 58" src="https://github.com/user-attachments/assets/d6b00bab-8ead-48cd-aa0f-e80f6f089faa" />
+<img width="995" height="520" alt="Captura de Tela 2025-09-04 às 20 25 17" src="https://github.com/user-attachments/assets/0c59354e-bc3a-40d1-ab34-04d3d6db2797" />
+
+
 ---
 
 ## 2.2 **Características e funcionalidades dos concorrentes**
