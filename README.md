@@ -104,6 +104,9 @@ Pessoas que trabalham de home office, jogam ou estudam no computador.
 - Monitoramento de expressões em tempo real ou por upload de vídeo.
 - Realiza a análise das expressões em resposta a um estímulo.
 
+**MorphCast for Zoom**
+- Monitoramento de emoções em tempo real ou por upload de vídeo
+- Monitoramento do nivel de atenção dos participantes durante reuniões 
 
 ---
 
@@ -119,6 +122,10 @@ Pessoas que trabalham de home office, jogam ou estudam no computador.
 - O software possui várias ferramentas que permitem explorar os resultados das análises das expressões  
 - Monitoramento e geração de relatório em tempo real  
 
+**MorphCast for Zoom**
+- A experiência do usuário é complexa.  
+- O extensão gera graficos demonstrando o nível de atencção durante reuniões em tempo real
+  
 ---
 
 ## 2.4 **Padrões e tendências do mercado**
@@ -132,6 +139,9 @@ Pessoas que trabalham de home office, jogam ou estudam no computador.
 - Foco em APIs e SDKs
 - Usado na área de neuromarketing 
 
+**MorphCast for Zoom**
+- Foco em gráficos e dashboards
+- Foco em APIs e SDKs 
 
 # **Entrega 3 (data) \[em andamento/concluído\]**
 
