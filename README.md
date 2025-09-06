@@ -44,7 +44,7 @@ Inserido na cultura do trabalho remoto — que valoriza tanto a produtividade qu
 conscientização sobre o bem-estar para evitar o esgotamento (burnout) — o usuário
 recorre à aplicação para receber os alertas e sugestões visando o bem-estar.
 
-# **Entrega 2  (28/08) \[em andamento]**
+# **Entrega 2  (28/08) \[concluído]**
 
 **\[1 solução completa por pessoa da equipe\]**
 
@@ -143,7 +143,7 @@ Pessoas que trabalham de home office, jogam ou estudam no computador.
 - Foco em gráficos e dashboards
 - Foco em APIs e SDKs 
 
-# **Entrega 3 (data) \[em andamento/concluído\]**
+# **Entrega 3 (04/09) \[em andamento/concluído\]**
 
 **1\) Personas**   
 **\[1 solução completa por pessoa da equipe \- identificar o autor\]**
